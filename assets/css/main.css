@@ -70,6 +70,7 @@ th{
 		-moz-box-sizing: border-box;
 		-webkit-box-sizing: border-box;
 		box-sizing: border-box;
+		border: : 5px;
 	}
 
 	.row > * {

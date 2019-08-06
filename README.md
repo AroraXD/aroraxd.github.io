@@ -1,8 +1,6 @@
-uveavanto.com
+My personal site
 
-my personal site
-
-based on Astral
+based on Astral - https://html5up.net/astral
 -----------------
 
 Astral by HTML5 UP
